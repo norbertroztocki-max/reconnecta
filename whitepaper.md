@@ -1,4 +1,4 @@
-# Reconnecta
+# Reconecta
 ## A Regenerative Living Laboratory at Óbidos Lagoon
 
 *Working draft v0.3-beta — 2026-05-08*
@@ -40,8 +40,8 @@
 
 ## 1. Executive Summary
 
-Reconnecta is a 4.83-hectare regenerative project under development on the western coast of Portugal, between Óbidos Lagoon and the Atlantic. Its purpose is to prove — at human scale and on a single piece of land — that uncompromising ecological practice and uncompromising quality of life are not opposites. They are the same craft, done well.
-
+Reconecta is a 4.83-hectare regenerative project under development on the western coast of Portugal, between Óbidos Lagoon and the Atlantic. Its purpose is to prove — at human scale and on a single piece of land — that uncompromising ecological practice and uncompromising quality of life are not opposites. They are the same craft, done well.
+  
 The project is organised around three interlocking commitments: a family home, a working ecosystem, and a place where others learn what it took to build it. The hospitality layer (a 10-unit Hotel Rural 3★, currently in the Portuguese pre-permit (PIP) stage) funds the operation; the workshops, residencies and research programme give it meaning; the land itself — soils, water, oaks, horses, food — is both medium and message.
 
 Reconnecta is being built by Norbert Roztocki and family, with Paweł Sroczyński as project manager. It is not a retreat centre, not a commune, not a brand. It is a place.
