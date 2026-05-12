@@ -1,4 +1,4 @@
-# Reconnecta
+# Reconecta test
 ## A Regenerative Living Laboratory at Óbidos Lagoon
 
 *Working draft v0.3-beta — 2026-05-08*
